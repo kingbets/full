@@ -1,0 +1,11 @@
+{
+  "api_id": 25706245,
+  "api_hash": "66388d9ff2372d6e8b05dcd1e760aeb2",
+  "bot_token": "7738698271:AAFaPtNVbESgkcD1gLCfvBWFtfJyFmQLE8g",
+  "source_group": "@sourcegroup",
+  "target_group": "@yourgroup",
+  "max_members_to_add": 50,
+  "delay": 10,
+  "add_fake": true,
+  "add_real": true
+}
